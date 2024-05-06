@@ -5,3 +5,5 @@
  - [Bunker App (Bunki)](https://github.com/2023-2024-nappali-vizsgaremek/bunker-keki-agocs-miskolczi/), egy újonnan nyílt pub (Agócs Ármin, Kéki Lajos Máté, Miskolczi Nándor).
  - [Vasvari App](https://github.com/2023-2024-nappali-vizsgaremek/vasvari-app-peli-bukvity),  iskolai információs rendszer (Agócs Ármin, Péli Tamás).
  - [Hardverapro](https://github.com/2023-2024-nappali-vizsgaremek/hardverapro-polyakovich-halasz), hardver tárgyak eladása felhasználók között (Halász Patrik, 	Polyákovich Tamás).
+ - [OtthonBérlés](https://github.com/2023-2024-nappali-vizsgaremek/otthonberles-mosenlechner-miklos-szabo), albérlet hirdetés és keresés (Miklós Richárd Gábor, Mösenlechner Josef Zoltán, Szabó Vivien Liliána)
+
